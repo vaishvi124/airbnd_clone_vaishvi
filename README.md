@@ -22,7 +22,7 @@ To run the project locally, follow these steps:
 
 1. Clone the repository:
 
-   git clone https://github.com/devanship30/airbnb-look-alike.git
+   git clone https://github.com/vaishvi124/airbnd_clone_vaishvi
 
 2. Navigate to the project directory:
 
